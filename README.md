@@ -1,1 +1,2 @@
-Power BI - Data Visualization
+# Power BI
+Data Visualization
